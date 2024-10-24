@@ -1,7 +1,7 @@
 # Aplikasi Rental Alat Lab
 
 **Nama Kelompok**: Lab  
-**Nama Anggota**: Naufal Fawaz Zuhi  
+**Nama Anggota**: Naufal Fawaz Zuhdi  
 
 ## Deskripsi Project
 Project ini merupakan salah satu tugas untuk sertifikasi, di mana aplikasi yang dikembangkan adalah sebuah sistem rental alat laboratorium berbasis web. Aplikasi ini bertujuan untuk memudahkan proses peminjaman, pengelolaan, dan pengembalian alat laboratorium, dengan fitur-fitur yang mempermudah administrasi dan monitoring oleh pengguna maupun admin.
