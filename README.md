@@ -12,8 +12,7 @@ Berikut adalah fitur-fitur utama yang terdapat pada project ini:
 1. **Manajemen Pengguna (Admin & Member)**  
    Aplikasi ini memiliki dua jenis pengguna: Admin dan Member.  
    - **Admin**: Bertanggung jawab untuk mengelola data pengguna, alat lab, dan proses peminjaman.  
-   - **Member**: Dapat melakukan peminjaman alat laboratorium, melihat status peminjaman, dan mengelola pengembalian alat.
-
+   - **Member**: Dapat melakukan peminjaman alat laboratorium.
 2. **Pengkategorian Barang**  
    Fitur ini memungkinkan admin untuk mengelompokkan alat-alat laboratorium berdasarkan kategori tertentu, seperti jenis alat atau penggunaan. Pengkategorian ini membantu dalam mengelola dan menemukan alat dengan lebih mudah.
 
