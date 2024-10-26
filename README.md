@@ -30,3 +30,6 @@ Dengan fitur-fitur tersebut, aplikasi ini memberikan untuk mengelola alat labora
 **Gambar Schema Project Dari Database**  
 ![image](https://github.com/user-attachments/assets/b1d7691e-f2af-4f9e-8687-cddde048a4f9)
 
+## Video Demo
+https://drive.google.com/drive/folders/1qi0ugL6_3IfPg_EA6RnRZyhz6MB2O7To?usp=sharing
+
